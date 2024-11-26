@@ -1,1 +1,3 @@
-terraform examples
+resource "local_file" "kotresh" {
+    filename = "panvi"
+}
